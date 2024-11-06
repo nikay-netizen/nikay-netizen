@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nikay-netizen
 - 👀 I’m interested in reading, music, and playing video games
-- 🌱 I’m currently learning about AngularJS 
+- 🌱 I’m currently learning about AngularJS and ReactJS
 - 📫 How to reach me: just email me at jiserene1@gmail.com
 - 😄 Pronouns: she/her
 - portfolio link: https://rocacurvanikkimarie.wordpress.com/
