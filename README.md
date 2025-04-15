@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @nikay-netizen
 - 👀 I’m interested in reading, music, and playing video games
-- 🌱 I’m currently learning about AngularJS and ReactJS
-- 📫 How to reach me: just email me at jiserene1@gmail.com
+- 🌱 I’m currently learning about AngularJS
 - 😄 Pronouns: she/her
-- portfolio link: https://rocacurvanikkimarie.wordpress.com/
 
 <!---
 nikay-netizen/nikay-netizen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
